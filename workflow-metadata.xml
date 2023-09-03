@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-metadata content-type="text/plain" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
+    <author>Athira</author>
+    <created>2023-08-18T11:06:52.000+05:30</created>
+    <last-modified>2023-09-03T12:32:04.309+05:30</last-modified>
+    <description>This is the first workflow created in KNIME platform for learning purpose . To check the similar molecule by comparing 2D of the molecule.
+ </description>
+</workflow-metadata>
